@@ -1,0 +1,74 @@
+
+.header1 {
+    background-color: #bf7439;
+    height: 100px;
+    width: 330px;
+    color: white;
+    font-size: bold;
+    font-size: 30px;
+    margin: 10px 10px 10px 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+} 
+.header1 >h1 {
+    position: absolute;
+    top: 30px;
+    left: 40px;
+    font-weight: bold;
+}
+.instructions {
+    margin: 10px 10px 10px 10px;
+    height: 350px;
+    width: 700px;
+    background-color: #f8e6d0;
+}
+
+.instructions >p {
+    padding: 12px;
+    margin: 15px 10px 15px 10px;
+    color: green;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.random-num {
+    margin: 10px 10px 10px 10px;
+    width: 240px;
+    height: 100px;
+    background-color: #79c686;
+    padding: 20px 10px 20px 10px;
+    float: left;
+}
+.scoreboard {
+    margin: 10px 10px 10px 10px;
+    float: right;
+    background-color: aqua;
+    height: 90px;
+    width: 120px;
+    float: left;
+    padding: 50px 10px 0px 30px;
+    font-weight: bold;
+}
+#images-file > img {
+    width: 150px;
+    height: 150px;
+}
+.total-score {
+    margin: 10px 10px 10px 10px;
+    height: 30px;
+    width: 260px;
+    background-color: #468c86;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 20px;
+}
+.score-value {
+    margin: 10px 10px 10px 10px;
+    height: 120px;
+    width: 260px;
+    background-color: #468c86;
+    padding: 5px;
+    color: white;
+    font-size: 40px;
+};
+
