@@ -38,6 +38,11 @@
     padding: 20px 10px 20px 10px;
     float: left;
 }
+
+.random-num {
+    font-size: 30px;
+    color: white;
+}
 .scoreboard {
     margin: 10px 10px 10px 10px;
     float: right;
@@ -52,6 +57,19 @@
     width: 150px;
     height: 150px;
 }
+#rock1:hover {
+    opacity: .5;
+}
+#rock2:hover {
+    opacity: .5;
+}
+#rock3:hover {
+    opacity: .5;
+}
+#rock4:hover {
+    opacity: .5;
+}
+/* How do i make the top 4 into one line*/
 .total-score {
     margin: 10px 10px 10px 10px;
     height: 30px;
