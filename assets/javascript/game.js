@@ -53,9 +53,6 @@ $(".rocks").on("click", function() {
     }
 });});
 
-
-
-
 // $("#rock1").on("click", function() {
 //     Scorevalue = Scorevalue + Randomrock1;
 //          $(".score-value").html(Scorevalue);
